@@ -4,29 +4,29 @@ A comprehensive attendance management system with facial recognition, NFC, and Q
 
 ## Features
 
-- 🔐 **Multiple Verification Methods**
+-  **Multiple Verification Methods**
   - Facial Recognition using face-api.js
   - QR Code scanning
   - NFC (Near Field Communication) support
   
-- 📊 **Real-time Updates**
+-  **Real-time Updates**
   - Live attendance tracking
   - Instant notifications
   - WebSocket-based updates
 
-- 📈 **Analytics & Reporting**
+-  **Analytics & Reporting**
   - Detailed attendance reports
   - Student attendance history
   - Class-wise statistics
   - Export functionality
 
-- 🔒 **Security Features**
+-  **Security Features**
   - JWT-based authentication
   - Proxy attendance prevention
   - Secure data storage
   - Role-based access control
 
-- ☁️ **Cloud Storage**
+-  **Cloud Storage**
   - MongoDB database
   - Scalable architecture
   - Data backup support
